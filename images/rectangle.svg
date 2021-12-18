@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="151.41" height="36.84" viewBox="0 0 151.41 36.84">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #ffba00;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1506.175" y1="4626.97" x2="1506.175" y2="4592.13" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffa200"/>
+      <stop offset="1" stop-color="#ffbc06"/>
+    </linearGradient>
+  </defs>
+  <path id="Rounded_Rectangle_1_copy_2" data-name="Rounded Rectangle 1 copy 2" class="cls-1" d="M1448.89,4592.13h114.58a17.425,17.425,0,0,1,0,34.85H1448.89A17.425,17.425,0,0,1,1448.89,4592.13Z" transform="translate(-1430.47 -4591.13)"/>
+</svg>
