@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="rvs-graphic-designer-portfolio.netlify.app">Demo</a>
+    <a href="https://rvs-graphic-designer-portfolio.netlify.app/">Demo</a>
     <span> | </span>
     <a href="https://github.com/vetrisuriya/Portfolio-Responsive-Website">Solution</a>
   </h3>
